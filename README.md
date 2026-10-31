@@ -7,9 +7,11 @@ A sophisticated and unique notepad for Android designed to give you a true Windo
 <p align="center">
  <img width="720" height="1600" alt="c (5)" src="https://github.com/user-attachments/assets/2d2a913a-545e-4040-bbb4-2f2e80e3b804" />
 <img width="720" height="1600" alt="c (4)" src="https://github.com/user-attachments/assets/510b3650-f089-4769-95d3-664e70b20cf7" />
-<img width="720" height="1600" alt="c (3)" src="https://github.com/user-attachments/assets/080f2e01-4a49-4aab-be55-b6b983967328" />
+<p align="center">
+ <img width="720" height="1600" alt="c (3)" src="https://github.com/user-attachments/assets/080f2e01-4a49-4aab-be55-b6b983967328" />
 <img width="1600" height="720" alt="c (2)" src="https://github.com/user-attachments/assets/92e9addb-a35d-49c3-9d2b-d25806f06a08" />
-<img width="720" height="1600" alt="c (1)" src="https://github.com/user-attachments/assets/2c97e6b3-3d14-48c3-98cf-9cb4e53f96ba" />
+<p align="center">
+ <img width="720" height="1600" alt="c (1)" src="https://github.com/user-attachments/assets/2c97e6b3-3d14-48c3-98cf-9cb4e53f96ba" />
 <img width="720" height="1600" alt="c (6)" src="https://github.com/user-attachments/assets/80558899-c28f-41ad-a207-21681d83af2a" />
 
 
