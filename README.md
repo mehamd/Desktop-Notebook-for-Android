@@ -18,6 +18,7 @@ A sophisticated and unique notepad for Android designed to give you a true Windo
   <img src="https://github.com/user-attachments/assets/6dafd209-7dd0-48fa-a4c4-7acfab877f7a" width="45%" />
 </p>
 <img width="1600" height="720" alt="c (2)" src="https://github.com/user-attachments/assets/9f7a968d-cc27-4c67-8a49-7983bb5158b0" />
+<img width="1099" height="615" alt="2026-10-31 23-2-9" src="https://github.com/user-attachments/assets/37d1589e-b2da-428b-bb1e-306160a21798" />
 
 ## 📥 Download / التحميل
 يمكنك تحميل أحدث نسخة من ملف التثبيت بصيغة APK من الملفات الموجودة في المستودع وتثبيته على هاتفك مباشرة.
