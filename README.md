@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Samsung_DeX-034EA2?style=for-the-badge&logo=samsung&logoColor=white" />
+  <img src="https://img.shields.io/badge/Desktop_Mode-4285F4?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 # Desktop Notebook for Android
 مفكرة متطورة ومميزة للأندرويد مصممة خصيصاً لتمنحك تجربة تشبه نظام ويندوز تماماً. تتميز بتصميم أنيق يدعم تخصيص الخلفيات، وقائمة سياق (Context Menu) احترافية تمنحك تحكمًا كاملاً، مع دعم التبويبات المتعددة، والبحث والاستبدال، والنسخ واللصق، واختصارات لوحة المفاتيح لتجربة كتابة يومية سريعة ومريحة.
 
