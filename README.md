@@ -28,6 +28,7 @@ A sophisticated and unique notepad for Android designed to give you a true Windo
 > **01040554352**
 
 If you like this app and want to support its further development, you can donate via Vodafone Cash. 
+> **01040554352**
 ## 🖥️ Desktop Mode & Samsung DeX Support / دعم وضع سطح المكتب و DeX
 تم تصميم المفكرة وتطويرها بعناية لتعمل بسلاسة كاملة على بيئات سطح المكتب للأندرويد:
 - **Samsung DeX:** دعم كامل للتكبير والتصغير، والنوافذ المنبثقة، وقائمة السياق بلمسة واحدة.
