@@ -4,7 +4,10 @@
 A sophisticated and unique notepad for Android designed to give you a true Windows-like experience. It features an elegant design supporting background customization, a professional Context Menu for full control, multi-tab support, search & replace, copy/paste, and keyboard shortcuts for a seamless daily writing experience.
 
 ## 📱 Screenshots / الشاشة
-*(يمكنك سحب وإفلات صور المفكرة هنا لرفعها وعرضها تلقائياً
+<p align="center">
+  <img src="رابط_الصورة_الأولى_هنا" width="45%" />
+  <img src="رابط_الصورة_الثانية_هنا" width="45%" />
+</p>
 <img width="720" height="1600" alt="c (5)" src="https://github.com/user-attachments/assets/6dafd209-7dd0-48fa-a4c4-7acfab877f7a" />
 <img width="720" height="1600" alt="c (4)" src="https://github.com/user-attachments/assets/07949c66-e9c6-42c0-b4ee-98128c523bc7" />
 <img width="720" height="1600" alt="c (3)" src="https://github.com/user-attachments/assets/06073668-8adf-43c6-b6f3-ac0ac42254d0" />
