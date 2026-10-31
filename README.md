@@ -21,4 +21,13 @@ A sophisticated and unique notepad for Android designed to give you a true Windo
 إذا أعجبك التطبيق وتود دعم استمراره وتطويره، يمكنك التبرع عبر **فودافون كاش** على الرقم التالي:
 > **01040554352**
 
-If you like this app and want to support its further development, you can donate via Vodafone Cash.
+If you like this app and want to support its further development, you can donate via Vodafone Cash. 
+## 🖥️ Desktop Mode & Samsung DeX Support / دعم وضع سطح المكتب و DeX
+تم تصميم المفكرة وتطويرها بعناية لتعمل بسلاسة كاملة على بيئات سطح المكتب للأندرويد:
+- **Samsung DeX:** دعم كامل للتكبير والتصغير، والنوافذ المنبثقة، وقائمة السياق بلمسة واحدة.
+- **Android Desktop Mode / PrimeOS / Bliss OS:** متوافقة مع أنظمة سطح المكتب المتعددة للعمل بالماوس ولوحة المفاتيح بمرونة.
+- **Keyboard Shortcuts:** دعم الاختصارات الشهيرة مثل (`Ctrl+C`, `Ctrl+V`, `Ctrl+Z`, `Ctrl+F`).
+
+Designed and optimized for Android Desktop environments:
+- Fully compatible with **Samsung DeX** freeform windowing and right-click context menus.
+- Enhanced layout for mouse and keyboard productivity on Android Desktop interfaces.
