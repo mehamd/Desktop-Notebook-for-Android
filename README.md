@@ -5,16 +5,13 @@ A sophisticated and unique notepad for Android designed to give you a true Windo
 
 ## 📱 Screenshots / الشاشة
 <p align="center">
-  <img src="رابط_الصورة_الأولى_هنا" width="45%" />
-  <img src="رابط_الصورة_الثانية_هنا" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d25fd8db-00e8-4308-ba97-62fb43e4ceda" width="45%" />
+  <img src="https://github.com/user-attachments/assets/06073668-8adf-43c6-b6f3-ac0ac42254d0" width="45%" />
 </p>
-<img width="720" height="1600" alt="c (5)" src="https://github.com/user-attachments/assets/6dafd209-7dd0-48fa-a4c4-7acfab877f7a" />
-<img width="720" height="1600" alt="c (4)" src="https://github.com/user-attachments/assets/07949c66-e9c6-42c0-b4ee-98128c523bc7" />
-<img width="720" height="1600" alt="c (3)" src="https://github.com/user-attachments/assets/06073668-8adf-43c6-b6f3-ac0ac42254d0" />
-<img width="1600" height="720" alt="c (2)" src="https://github.com/user-attachments/assets/9645361a-01e0-4f82-9b26-17b18db60edd" />
-<img width="720" height="1600" alt="c (1)" src="https://github.com/user-attachments/assets/d25fd8db-00e8-4308-ba97-62fb43e4ceda" />
-<img width="720" height="1600" alt="c (6)" src="https://github.com/user-attachments/assets/1ea7bb9b-d9ea-4f1a-82ce-4c4008a84786" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/07949c66-e9c6-42c0-b4ee-98128c523bc7" width="45%" />
+  <img src="https://github.com/user-attachments/assets/6dafd209-7dd0-48fa-a4c4-7acfab877f7a" width="45%" />
+</p>
 
 ## 📥 Download / التحميل
 يمكنك تحميل أحدث نسخة من ملف التثبيت بصيغة APK من الملفات الموجودة في المستودع وتثبيته على هاتفك مباشرة.
